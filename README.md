@@ -5,22 +5,26 @@ Este repositorio será el recopilador de todo el trabajo realizado tanto en el p
 Hay un prework de 6 módulos en los que hemos visto desde de forma muy introductoria conceptos y vocabulario que se usa dentro del mundo de la Ciencia de Datos, 
 hasta el desarrolo de proyecto en codewas, pocedo a explicar de forma más detallada estos módulos:
 
-## Parte1: INTRODUCCIÓN 
+## Parte1: ASÍ EMPIEZAS 
 
 
-## Parte2: HERRAMIENTAS BÁSICAS
+## Parte2: INTRODUCCIÓN DATA SCIENCE
 
 
-## Parte3: PYTHON I 
+## Parte3: HERRAMIENTAS BÁSICAS
 
 
-## Parte4: PYTHON II  
+## Parte4: PYTHON I 
 
 
-## Parte5: PYTHON III  
+## Parte5: PYTHON II  
 
 
-## Parte6: INTRO POO 
+## Parte6: PYTHON III  
 
 
-## Parte7: CODEWARS 
+## Parte7: INTRO POO 
+
+
+## Parte8: CODEWARS 
+
