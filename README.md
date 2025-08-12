@@ -1,4 +1,4 @@
-# Bootcamp de DataScience en TheBridge de forma presencial en la convocatoria de septiembre del 2025
+# BOOTCAMP DATASCIENCE THEBRIDGE PRESENCIAL SEPTIEMBRE 2025
 
 Este repositorio será el recopilador de todo el trabajo realizado tanto en el prework, como los trabajos y proyecto dentro del bootcamp. 
 
