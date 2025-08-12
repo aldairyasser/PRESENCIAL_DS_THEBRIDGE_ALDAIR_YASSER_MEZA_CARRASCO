@@ -1,6 +1,4 @@
-<div style="text-align: justify;">
-
-# Proyectos para el bootcamp de DataScience en TheBridge de forma presencial en la convocatoria de septiembre del 2025
+# Bootcamp de DataScience en TheBridge de forma presencial en la convocatoria de septiembre del 2025
 
 Este repositorio será el recopilador de todo el trabajo realizado tanto en el prework, como los trabajos y proyecto dentro del bootcamp. 
 
@@ -37,4 +35,3 @@ Empezarás siendo un usuario de nivel 8 (kyu), pero poco a poco irás mejorando,
 
 Mi perfil --> [aldairyasser](https://www.codewars.com/users/aldairyasser)
 
-</div>
