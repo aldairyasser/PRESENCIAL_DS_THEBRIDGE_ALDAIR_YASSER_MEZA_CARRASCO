@@ -1,32 +1,42 @@
-# BOOTCAMP DATASCIENCE THEBRIDGE PRESENCIAL SEPTIEMBRE 2025
+# BOOTCAMP DATASCIENCE THEBRIDGE PRESENCIAL SEPTIEMBRE 2025 🧑🏽‍💻📊
 
 Este repositorio será el recopilador de todo el trabajo realizado tanto en el prework, como los trabajos y proyecto dentro del bootcamp. 
 
-Hay un prework de 6 módulos en los que hemos visto de forma muy introductoria conceptos y vocabulario que se usa dentro del mundo de la Ciencia de Datos, 
-hasta una introducción a la Programación Orientada a Objeto (POO), así como ejercicios en codewas, pocedo a explicar de forma más detallada cada módulo:
+Hay un prework de 8 módulos, en los qu se ven desde de forma muy introductoria conceptos y vocabulario que se usa dentro del mundo de la Ciencia de Datos, 
+hasta una introducción a la Programación Orientada a Objeto (POO), así como ejercicios en codewas, analisemos cada parte más en profundidad:
 
-## Parte1: Así empiezas
-Este módulo es nuevo, es más introspectivo, es decir, te preguntan y te piden por tu CV, por tu perfil de Linkeln, que lleves a cabo una línea del tiempo con todo aquello que has hecho, ya sea académico, laboral o demás cosas (**JOBTIMELINE**), te piden también que hagas un **DAFO** (Debilidades, Amenaza, Fortalezas y Oportunidades) de tí y en base a ese DAFO, realizar un **CAME** (Corregir, Afrontar, Mantener y Explorar), todo esto pensado para ver de dónde parte, ya que hay una parte del bootcamp que está centrada en el desarrollo de habilidades para las entrevistas de trabajo y pruebas técnicas, en el que seguramente vuelvas a tocar estas cosas.
+---
 
-## Parte2: Introducción Data Science
+## ⓵ Parte: Así empiezas
+Este módulo es nuevo, es más introspectivo, es decir, te preguntan y te piden por tu CV, por tu perfil de Linkeln, que lleves a cabo una línea del tiempo con todo aquello que has hecho, ya sea académico, laboral o extras (**JOBTIMELINE**), te piden también que hagas un **DAFO** (Debilidades, Amenaza, Fortalezas y Oportunidades) de tí y en base a ese DAFO, realizar un **CAME** (Corregir, Afrontar, Mantener y Explorar), todo esto pensado para ver de dónde partimos, ya que casi al final del bootcamp hay una parte que se centra en el desarrollo de habilidades blandas para las entrevistas de trabajo, en el que seguramente se haga uso de estas cosas.
 
+---
 
-## Parte3: Herramientas Básicas
+## ⓶ Parte2: Introducción Data Science
 
+---
 
-## Parte4: Python I 
+## ⓷ Parte: Herramientas Básicas
 
+---
 
-## Parte5: Python II  
+## ⓸ Parte: Python I 
 
+---
 
-## Parte6: Python III  
+## ⓹ Parte: Python II  
 
+---
 
-## Parte7: Intro POO 
+## ⓺ Parte: Python III  
 
+---
 
-## Parte8: Codewars 
+## ⓻ Parte: Intro POO 
+
+---
+
+## ⓼ Parte: Codewars 
 En esta parte te animan a crearte una cuenta en [CODEWARS](https://www.codewars.com), la cual puedes vincular al GutHub.
 
 A medida que vayas haciendo "katas", ejercicios prácticos, 8 kyu (más fácil) 6 kyu (más difícil), los cuales te darán experiencia.
