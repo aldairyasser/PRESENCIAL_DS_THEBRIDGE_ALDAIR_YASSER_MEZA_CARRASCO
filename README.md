@@ -47,6 +47,16 @@ Finalmente, se abordan las **operaciones aritméticas y comparativas**, indispen
 
 ## ⓹ Parte: Python II  
 
+En esta parte se avanza en el aprendizaje de **Python**, profundizando en conceptos fundamentales que permiten escribir programas más estructurados y funcionales. Se comienza con el estudio de las **operaciones con valores booleanos**, esenciales para trabajar con expresiones lógicas, establecer condiciones y controlar el flujo de los programas.
+
+Posteriormente, se introduce el uso de **funciones y métodos**, primero desde una perspectiva básica y luego con mayor detalle. Aprendemos a encapsular bloques de código para reutilizarlos, mejorar la legibilidad y reducir errores, además de trabajar con métodos propios de distintos tipos de datos en Python.
+
+Otro punto clave es la introducción a las **listas**, una de las estructuras de datos más utilizadas en programación. Se exploran sus propiedades, formas de inicializarlas, modificarlas y recorrerlas, sentando las bases para la manipulación de colecciones de información.
+
+Finalmente, se aborda el tema de los **flujos de ejecución**, profundizando en estructuras de control como condicionales y bucles. Este bloque permite comprender cómo dirigir la lógica de los programas y hacerlos más dinámicos y adaptables a diferentes situaciones.
+
+La sección se complementa con la **entrega de ejercicios prácticos**, lo que permite aplicar de manera inmediata los conocimientos adquiridos y consolidar la base de Python antes de pasar a temas más avanzados. En conjunto, esta parte proporciona las herramientas necesarias para comenzar a construir programas más completos y funcionales.
+
 ---
 
 ## ⓺ Parte: Python III  
