@@ -15,11 +15,21 @@ Este módulo es nuevo, es más introspectivo, es decir, te preguntan y te piden 
 
 ## ⓶ Parte: Introducción Data Science
 
-En esta sección se exploran los fundamentos de **Data Science**, desde su definición y aplicaciones principales hasta las herramientas más utilizadas en el sector. Además, se incluyen los primeros pasos prácticos para preparar el entorno de trabajo con **Python** y **Visual Studio Code**, sentando la base para los siguientes módulos del bootcamp.
+En esta parte se abordan los fundamentos de **Data Science**, entendiendo qué es, sus principales aplicaciones y las herramientas más utilizadas en el sector. También se incluyen los primeros pasos prácticos para configurar el entorno de trabajo. Además, se ven los primeros conceptos básicos que servirán como punto de partida, junto con la instalación de **Python** y la configuración inicial de **Visual Studio Code** para preparar el entorno de desarrollo.
 
 ---
 
 ## ⓷ Parte: Herramientas Básicas
+
+En esta parte se introducen las herramientas fundamentales que todo profesional de Data Science necesita dominar para desenvolverse en un entorno técnico. Se comienza con una base sólida en los **comandos de LIINUX**, lo que permite gestionar archivos, directorios y procesos directamente desde la terminal, ganando así rapidez y eficiencia en el trabajo diario.
+
+Posteriormente, se profundiza en el uso de **Git y GitHub**, dos pilares esenciales para el control de versiones y la colaboración en proyectos. Se abordan desde los conceptos básicos hasta el uso práctico tanto en la línea de comandos como en interfaces gráficas como **GitHub Desktop**, facilitando el manejo de repositorios y la integración con flujos de trabajo colaborativos.
+
+Otra parte clave de esta parte es **Jupyter Notebooks**, una de las herramientas más utilizadas en ciencia de datos por su versatilidad para combinar código, visualizaciones y documentación en un mismo entorno interactivo.
+
+Finalmente, se dedica un bloque a **Markdown**, el lenguaje que permite documentar proyectos de manera clara y estructurada. Dentro se dedican gran parte a explorar desde la sintaxis básica hasta opciones más avanzadas, con la oportunidad de poner en práctica lo aprendido mediante ejercicios específicos.
+
+Que puedes encontrar dentro del archivo de [PREWORK](/PREWORK/Parte3_Ejers/)
 
 ---
 
