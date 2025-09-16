@@ -35,6 +35,14 @@ Que puedes encontrar dentro del archivo de [PREWORK](/PREWORK/Parte3_Ejers/)
 
 ## ⓸ Parte: Python I
 
+Esta parte marca el inicio del aprendizaje de **Python**, el lenguaje de programación más utilizado en Data Science. Se comienza con una introducción general al lenguaje, explorando su sintaxis básica y entendiendo por qué es una herramienta tan poderosa y versátil en el mundo del data.  
+
+Se profundiza en el concepto de **variables**, que constituyen la base de cualquier programa, y se estudian diferentes formas de definirlas y manipularlas. Posteriormente, se introduce el uso de la función **print()** y otros fundamentos esenciales que permiten interactuar con la consola y visualizar resultados.  
+
+Otro bloque fundamental es el de los **tipos de datos**, donde se presentan las distintas estructuras que ofrece Python (enteros, flotantes, cadenas de texto, booleanos, entre otros) y se aprenden las reglas para utilizarlos correctamente en distintos contextos. Para complementar, se trabaja con la **conversión de tipos**, una habilidad clave para garantizar la compatibilidad entre diferentes datos y evitar errores comunes en la programación.
+
+Finalmente, se abordan las **operaciones aritméticas y comparativas**, indispensables para cualquier análisis numérico o desarrollo de algoritmos, estableciendo así las bases del pensamiento lógico dentro de la programación en Python.  
+
 ---
 
 ## ⓹ Parte: Python II  
