@@ -29,7 +29,7 @@ Otra parte clave de esta parte es **Jupyter Notebooks**, una de las herramientas
 
 Finalmente, se dedica un bloque a **Markdown**, el lenguaje que permite documentar proyectos de manera clara y estructurada. Dentro se dedican gran parte a explorar desde la sintaxis básica hasta opciones más avanzadas, con la oportunidad de poner en práctica lo aprendido mediante ejercicios específicos.
 
-Que puedes encontrar dentro del archivo de [PREWORK](/PREWORK/Parte3_Ejers/)
+Que puedes encontrar dentro del archivo de [Parte3_Ejers](/PREWORK/Parte3_Ejers/)
 
 ---
 
@@ -51,19 +51,28 @@ En esta parte se avanza en el aprendizaje de **Python**, profundizando en concep
 
 Posteriormente, se introduce el uso de **funciones y métodos**, primero desde una perspectiva básica y luego con mayor detalle. Aprendemos a encapsular bloques de código para reutilizarlos, mejorar la legibilidad y reducir errores, además de trabajar con métodos propios de distintos tipos de datos en Python.
 
-Otro punto clave es la introducción a las **listas**, una de las estructuras de datos más utilizadas en programación. Se exploran sus propiedades, formas de inicializarlas, modificarlas y recorrerlas, sentando las bases para la manipulación de colecciones de información.
+Otro punto clave es la introducción a las **listas**, una de las estructuras de datos más utilizadas en programación. Se exploran sus propiedades, formas de crearlas, índices y algunos métodos.
 
 Finalmente, se aborda el tema de los **flujos de ejecución**, profundizando en estructuras de control como condicionales y bucles. Este bloque permite comprender cómo dirigir la lógica de los programas y hacerlos más dinámicos y adaptables a diferentes situaciones.
 
-La sección se complementa con la **entrega de ejercicios prácticos**, lo que permite aplicar de manera inmediata los conocimientos adquiridos y consolidar la base de Python antes de pasar a temas más avanzados. En conjunto, esta parte proporciona las herramientas necesarias para comenzar a construir programas más completos y funcionales.
+La sección se complementa con unos ejercicios que puedes encontrar aquí: [Parte5_Ejers](/PREWORK/Parte5_Ejers/)
 
 ---
 
 ## ⓺ Parte: Python III  
 
+En esta parte se amplía el dominio de las estructuras de datos y de las funciones en **Python**, consolidando así los conocimientos fundamentales del lenguaje. Se comienza profundizanod en las **listas**, explorando formas de inicializarlas, modificarlas, recorrerlas, añadir y eliminar elementos, así como nuevos métodos para todo esto, que permiten trabajar con colecciones de datos de manera eficiente.  
+
+A continuación, se introducen otras estructuras clave como las **tuplas**, los **diccionarios** y los **sets**. Cada una de ellas ofrece características específicas que resultan esenciales en diferentes contextos: las tuplas por su inmutabilidad, los diccionarios para manejar pares clave-valor y los sets para trabajar con colecciones no ordenadas y sin duplicados.  
+
+El bloque final está dedicado a las **funciones**, un pilar central en la programación. Se repasan conceptos básicos y se avanza hacia temas más complejos como los **argumentos posicionales**, los **argumentos variables** y los **argumentos clave-valor**. Estos elementos permiten escribir funciones mucho más flexibles, adaptables y reutilizables, lo que contribuye a un código más limpio y organizado.  
+
+La sección culmina con unos ejercicios que puedes encontrar aquí:  [Parte6_Ejers](/PREWORK/Parte6_Ejers/)  
+
 ---
 
 ## ⓻ Parte: Intro POO
+
 
 ---
 
