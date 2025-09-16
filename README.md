@@ -73,6 +73,13 @@ La sección culmina con unos ejercicios que puedes encontrar aquí:  [Parte6_Eje
 
 ## ⓻ Parte: Intro POO
 
+En esta parte se introduce uno de los paradigmas más importantes de la programación moderna: la **Programación Orientada a Objetos (POO)**. Se comienza con una introducción conceptual que explica su utilidad para organizar el código en torno a objetos, facilitando la reutilización, el mantenimiento y la escalabilidad de los programas.
+
+A continuación, se estudian los elementos fundamentales de la POO en Python. Primero, las **clases**, que funcionan como plantillas a partir de las cuales se crean objetos. Luego, los **atributos**, que permiten definir las propiedades de cada objeto, y los **constructores**, que sirven para inicializar dichos atributos en el momento de la creación.
+
+Posteriormente, se exploran los **métodos**, que representan el comportamiento de los objetos y permiten interactuar con sus atributos. Todo este aprendizaje se integra en un **ejemplo práctico de POO**, donde se ponen en conjunto las diferentes piezas del paradigma para comprender cómo se articulan en la construcción de programas más robustos y modulares.
+
+La sección finaliza con unos ejercicios que puedes encontrar aquí: [Parte7_Ejers](/PREWORK/Parte7_Ejers/)  
 
 ---
 
