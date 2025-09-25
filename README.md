@@ -1,4 +1,4 @@
-# BOOTCAMP DATA SCIENCE THE BRIDGE 2025 🧑🏽‍💻📊
+# BOOTCAMP DATA SCIENCE PRESENCIAL THE BRIDGE 2025 🧑🏽‍💻📊
 
 Soy Aldair Yasser Meza Carrasco y seré estudiante del bootcamp presencial en Data Science de The Bridge.
 
