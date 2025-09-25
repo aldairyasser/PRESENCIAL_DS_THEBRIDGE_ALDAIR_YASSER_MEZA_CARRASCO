@@ -1,9 +1,11 @@
-# BOOTCAMP DATASCIENCE THEBRIDGE PRESENCIAL SEPTIEMBRE 2025 🧑🏽‍💻📊
+# BOOTCAMP DATA SCIENCE THE BRIDGE 🧑🏽‍💻📊
 
-Este repositorio será el recopilador de todo el trabajo realizado tanto en el prework, como los trabajos y proyecto dentro del bootcamp.
+Soy Aldair Yasser Meza Carrasco y seré estudiante del bootcamp presencial en Data Science de The Bridge
 
-Hay un prework llamado "Modulo 0" de 8 partes, en los qu se ven desde de forma muy introductoria conceptos y vocabulario que se usa dentro del mundo de la Ciencia de Datos,
-hasta una introducción a la Programación Orientada a Objeto (POO), así como ejercicios en codewas, analisemos cada parte más en profundidad:
+Y este repositorio será el recopilador del prework.
+
+El prework es llamado "Modulo 0" de 8 partes, en los que se ven desde, de forma muy introductoria, conceptos y vocabulario que se usa dentro del mundo de la Ciencia de Datos,
+hasta una introducción a la Programación Orientada a Objeto (POO), así unas katas en codewas, analisemos cada parte más en profundidad:
 
 ---
 
