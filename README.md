@@ -11,7 +11,7 @@ hasta una introducción a la Programación Orientada a Objeto (POO), así unas k
 
 ## ⓵ Parte: Así empiezas
 
-Este módulo es nuevo, es más introspectivo, es decir, te preguntan y te piden por tu CV, por tu perfil de Linkeln, que lleves a cabo una línea del tiempo con todo aquello que has hecho, ya sea académico, laboral o extras (**JOBTIMELINE**), te piden también que hagas un **DAFO** (Debilidades, Amenaza, Fortalezas y Oportunidades) de tí y en base a ese DAFO, realizar un **CAME** (Corregir, Afrontar, Mantener y Explorar), todo esto pensado para ver de dónde partimos, ya que casi al final del bootcamp hay una parte que se centra en el desarrollo de habilidades blandas para las entrevistas de trabajo, en el que seguramente se haga uso de estas cosas.
+Este módulo es nuevo, es más introspectivo, es decir, te preguntan y te piden por tu CV, por tu perfil de Linkeln, que lleves a cabo una línea del tiempo con todo aquello que has hecho, ya sea académico, laboral o extras (**JOBTIMELINE**), te piden también que hagas un **DAFO** (Debilidades, Amenaza, Fortalezas y Oportunidades) de tí y en base a eso, realices un **CAME** (Corregir, Afrontar, Mantener y Explorar), todo esto pensado para ver de dónde partimos, ya que casi al final del bootcamp hay una parte que se centra en el desarrollo de habilidades blandas para las entrevistas de trabajo, en el que seguramente se haga uso de estas cosas.
 
 ---
 
