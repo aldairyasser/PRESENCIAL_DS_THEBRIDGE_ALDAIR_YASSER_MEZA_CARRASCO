@@ -1,6 +1,6 @@
-# BOOTCAMP DATA SCIENCE THE BRIDGE 🧑🏽‍💻📊
+# BOOTCAMP DATA SCIENCE THE BRIDGE 2025 🧑🏽‍💻📊
 
-Soy Aldair Yasser Meza Carrasco y seré estudiante del bootcamp presencial en Data Science de The Bridge
+Soy Aldair Yasser Meza Carrasco y seré estudiante del bootcamp presencial en Data Science de The Bridge.
 
 Y este repositorio será el recopilador del prework.
 
@@ -87,9 +87,9 @@ La sección finaliza con unos ejercicios que puedes encontrar aquí: [Parte7_Eje
 
 ## ⓼ Parte: Codewars
 
-En esta parte te animan a crearte una cuenta en [CODEWARS](https://www.codewars.com), la cual puedes vincular al GutHub.
+En esta parte te animan a crearte una cuenta en [CODEWARS](https://www.codewars.com), la cual puedes vincular al GitHub.
 
-A medida que vayas haciendo "katas", ejercicios prácticos, 8 kyu (más fácil) 6 kyu (más difícil), los cuales te darán experiencia.
+A medida que vayas haciendo "katas" (ejercicios prácticos) 8 kyu (más fácil) 6 kyu (más difícil), los cuales te darán experiencia.
 
 Empezarás siendo un usuario de nivel 8 (kyu), pero poco a poco irás mejorando, ellos te animan a llegar a ser de nivel 6 (kyu).
 
